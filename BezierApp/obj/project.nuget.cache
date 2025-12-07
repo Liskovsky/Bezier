@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nNcK0//oPZdbED4WoVw2acGV3CLioAJFBiLH3yAhR0ZpL0BNBt7i8Tlw0OkvoL3b3bhqxdGJ5Y63TT0dgGdCPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matyv\\Documents\\David\\OSU Bc\\Archiv\\3. semestr\\A - 2GALP - Principy a algoritmy počítačové grafiky\\BezierApp\\BezierApp\\BezierApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matyv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\matyv\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\matyv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\matyv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

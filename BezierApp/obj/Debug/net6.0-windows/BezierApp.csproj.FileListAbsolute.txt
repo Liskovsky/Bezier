@@ -1,0 +1,48 @@
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.Form1.resources
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.exe
+C:\Users\hp\source\repos\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.deps.json
+C:\Users\hp\source\repos\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.runtimeconfig.json
+C:\Users\hp\source\repos\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.dll
+C:\Users\hp\source\repos\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.pdb
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.dll
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\refint\BezierApp.dll
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.pdb
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.genruntimeconfig.cache
+C:\Users\hp\source\repos\BezierApp\BezierApp\obj\Debug\net6.0-windows\ref\BezierApp.dll
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.exe
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.deps.json
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.dll
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.pdb
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.Form1.resources
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.dll
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\refint\BezierApp.dll
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.pdb
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\Složka David\Škola\OSU Bc\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\ref\BezierApp.dll
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.exe
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.deps.json
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.runtimeconfig.json
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.dll
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\bin\Debug\net6.0-windows\BezierApp.pdb
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.Form1.resources
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.csproj.GenerateResource.cache
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.AssemblyInfoInputs.cache
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.AssemblyInfo.cs
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.csproj.CoreCompileInputs.cache
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.dll
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\refint\BezierApp.dll
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.pdb
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\BezierApp.genruntimeconfig.cache
+C:\Users\matyv\Documents\David\OSU Bc\Archiv\3. semestr\A - 2GALP - Principy a algoritmy počítačové grafiky\BezierApp\BezierApp\obj\Debug\net6.0-windows\ref\BezierApp.dll
